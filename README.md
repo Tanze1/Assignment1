@@ -1,4 +1,4 @@
-# Assignment1
+# Assignment1 | PBD
 Question 1
 Using the dataset (https://www.kaggle.com/raddar/nodules-in-chest-xrays-jsrt) file name is jsrt_metadata.csv:
 1. Find the total number of patients of each disease (diagnosis) and plot in histogram.
